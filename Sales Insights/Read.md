@@ -1,28 +1,25 @@
-This project presents an interactive HR Analytics Dashboard built in Power BI to visualize and analyze employee data. The goal is to help HR teams and management make data-driven decisions by tracking key workforce metrics such as attrition, employee satisfaction, performance, and diversity.
+Overview
+
+This project delivers an interactive Sales Insights Dashboard built with Power BI to help business analysts and decision-makers explore key sales metrics and trends. It’s designed to provide insights into sales performance, product performance, regional distribution and other critical dimensions of a sales business.
 
 Tools & Technologies
 
-=> Power BI Desktop – Dashboard creation & visualization
+1. Power BI Desktop – for building the dashboard.
 
-=>Power Query – Data cleaning and transformation
+2. Power Query Editor – for data cleaning, transformations, and shaping.
 
-=>DAX (Data Analysis Expressions) – Calculated columns and measures
+3. DAX (Data Analysis Expressions) – to create calculated measures and key metrics.
 
-=>Excel / CSV Dataset – Employee data source
-
-Insights Derived
-
-Departments with the highest attrition
-
-Correlation between age and attrition rate
-
-Impact of job satisfaction on performance and retention
-
-Gender and education-level distribution
+4. Excel / CSV / relational data source – used as the dataset basis (modify as per your dataset).
 
 How to Use
 
-Clone or download this repository.
-Open the HR_Analytics_Dashboard.pbix file in Power BI Desktop.
-Refresh the data connection if needed (update the dataset path).
-Explore the dashboard interactively!
+1. Clone or download this repository to your local machine.
+
+2. Open the Sales_Insights_Dashboard.pbix file in Power BI Desktop.
+
+3. If needed, point the dataset connection to the correct path (e.g., dataset/Sales_Data.csv).
+
+4. Refresh the model to load data and see visuals updated.
+
+5. Use the slicers and filters in the dashboard to explore different dimensions (e.g., region, product category, time period).
