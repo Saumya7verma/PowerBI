@@ -1,8 +1,9 @@
-Overview
+**Overview**
 
 This project delivers an interactive Sales Insights Dashboard built with Power BI to help business analysts and decision-makers explore key sales metrics and trends. It’s designed to provide insights into sales performance, product performance, regional distribution and other critical dimensions of a sales business.
 
-Tools & Technologies
+
+<h2> **Tools & Technologies** </h2>
 
 1. Power BI Desktop – for building the dashboard.
 
