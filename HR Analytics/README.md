@@ -1,7 +1,10 @@
+**Overview**
+
 This project presents an interactive HR Analytics Dashboard built in Power BI to visualize and analyze employee data.
 The goal is to help HR teams and management make data-driven decisions by tracking key workforce metrics such as attrition, employee satisfaction, performance, and diversity.
 
-Tools & Technologies
+
+**Tools & Technologies**
 
 => Power BI Desktop – Dashboard creation & visualization
 
@@ -12,7 +15,7 @@ Tools & Technologies
 =>Excel / CSV Dataset – Employee data source
 
 
-Insights Derived
+**Insights Derived**
 
 1. Departments with the highest attrition
 
@@ -23,9 +26,12 @@ Insights Derived
 4. Gender and education-level distribution
 
 
-How to Use
+**How to Use**
 
 1. Clone or download this repository.
+
 2. Open the HR_Analytics_Dashboard.pbix file in Power BI Desktop.
+
 3. Refresh the data connection if needed (update the dataset path).
+
 4. Explore the dashboard interactively!
